@@ -49,7 +49,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Draxler1902/badges/large)
+![codewars](https://www.codewars.com/users/agrigoryev/badges/large)
 
 ### ⚙️ GitHub статистика:
 
