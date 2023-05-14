@@ -1,21 +1,21 @@
-# Привет, меня зовут Артём!
+# Hi, my name is Artem!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Here are a few words about myself:
 
-Я начинающий Backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :zap: Являюсь студентом 3 курса направления "Программная инженерия".
+- :zap: I am a 3rd year student of the direction "Software engineering"..
 
-- :telescope: Завершил курсы "Разработка на С#/.NET от Codemasters International".
+- :telescope: I Completed courses "C#/.NET Development by Codemasters International".
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-grigoryevartem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agrigoryev13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agrigoryev13@yandex.ru)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-grigoryevartem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agrigoryev13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agrigoryev13@yandex.ru)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 <div id="badges">
     <a href="https://t.me/agrigoryev13" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
@@ -51,7 +51,7 @@
 
 ![codewars](https://www.codewars.com/users/agrigoryev/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
   <tr>
