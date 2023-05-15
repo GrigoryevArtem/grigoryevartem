@@ -6,7 +6,7 @@
 
 I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :zap: I am a 3rd year student of the direction "Software engineering"..
+- :zap: I am a 3rd year student of the direction "Software engineering".
 
 - :telescope: I Completed courses "C#/.NET Development by Codemasters International".
 
