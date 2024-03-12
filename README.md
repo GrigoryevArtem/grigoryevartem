@@ -6,7 +6,7 @@
 
 I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :zap: I am a 3rd year student of the direction "Software engineering".
+- :zap: I am a 4rd year student of the direction "Software engineering".
 
 - :telescope: I Completed courses "C#/.NET Development by Codemasters International".
 
@@ -51,6 +51,9 @@ I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ![codewars](https://www.codewars.com/users/agrigoryev/badges/large)
 
+### 💻 LeetCode:
+[![GrigoryevArtem's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GrigoryevArtem&theme=dark)](https://github.com/GrigoryevArtem/leetcode-stats)
+
 ### ⚙️ GitHub stats:
 
 <table>
@@ -67,3 +70,11 @@ I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMp
 <a href="http://www.github.com/GrigoryevArtem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GrigoryevArtem&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="http://www.github.com/GrigoryevArtem"><img src="https://github-readme-stats.vercel.app/api?username=GrigoryevArtem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GrigoryevArtem's GitHub stats" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
