@@ -79,6 +79,9 @@ I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMp
    </tr>
 </table>
 
+## Активность:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GrigoryevArtem&theme=tokyo-night)](https://github.com/GrigoryevArtem)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
