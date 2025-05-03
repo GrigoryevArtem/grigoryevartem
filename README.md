@@ -66,26 +66,13 @@ I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMp
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GrigoryevArtem&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GrigoryevArtem&layout=compact&theme=vision-friendly-dark" />
     </td>
-  </tr>
-    <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=GrigoryevArtem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GrigoryevArtem's GitHub stats"  />
     </td>
    </tr>
 </table>
 
-## Активность:
+## Activity:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GrigoryevArtem&theme=tokyo-night)](https://github.com/GrigoryevArtem)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
