@@ -2,30 +2,36 @@
 
 ---
 
-### :man_technologist: Here are a few words about myself:
 
-I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I'm a Java-Developer
 
-- :zap: I am a 1st-year master's student in the field of Software Engineering.
+- I am a 1st-year master's student in the field of Software Engineering.
 
-- :telescope: I Completed courses "C#/.NET Development by Codemasters International".
+- I am a java programmer at OOO ITC "Basis".
 
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-agrigoryev13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agrigoryev13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agrigoryev13@yandex.ru)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-agrigoryev13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agrigoryev13) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agrigoryev13@yandex.ru)
 
 ---
 
-### 🤝 Social media:
+### Social media:
 <div id="badges">
     <a href="https://t.me/agrigoryev13" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
     <a href="https://vk.com/agrigoryev13" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a>
+    <a href="https://www.linkedin.com/in/artem-grigoryev-8ab0b6349/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn Badge"/></a>
+   <a href="https://saransk.hh.ru/resume/071a3803ff0e3545fc0039ed1f656535467575" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/6186/6186195.png" width="40" height="40" alt="Resume (HH.ru)" />
+  </a>
+</a>
+
   </div>
 
 ---
 
-### 💻 Technologies:
+### Technologies:
 
 <div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -44,35 +50,28 @@ I'm a Beginner Backend Developer<img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoryevArtem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### 🛠 Tools:
-
-<div>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</div>
-
-
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/agrigoryev/badges/large)
-
-### 💻 LeetCode:
-[![LeetCode user GrigoryevArtem](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGrigoryevArtem&logo=leetcode&logoColor=yellow)](https://leetcode.com/GrigoryevArtem/)
-
-### ⚙️ GitHub stats:
 
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GrigoryevArtem&layout=compact&theme=vision-friendly-dark" />
-    </td>
+        
+### Codewars:
+![codewars](https://www.codewars.com/users/agrigoryev/badges/large)
+</td>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=GrigoryevArtem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GrigoryevArtem's GitHub stats"  />
-    </td>
+        
+### LeetCode:
+[![LeetCode user GrigoryevArtem](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGrigoryevArtem&logo=leetcode&logoColor=yellow)](https://leetcode.com/GrigoryevArtem/)
+ </td>
    </tr>
 </table>
 
-## Activity:
+---
+
+### GitHub stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoryevArtem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Activity:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GrigoryevArtem&theme=tokyo-night)](https://github.com/GrigoryevArtem)
