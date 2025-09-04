@@ -5,7 +5,7 @@
 
 I'm a Java-Developer
 
-- I am a 1st-year master's student in the field of Software Engineering.
+- I am a 2st-year master's student in the field of Software Engineering.
 
 - I am a java programmer at OOO ITC "Basis".
 
