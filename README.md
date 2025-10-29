@@ -70,8 +70,3 @@ I'm a Java-Developer
 </td>       
    </tr>
 </table>
-
----
-
-### Activity:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GrigoryevArtem&theme=tokyo-night)](https://github.com/GrigoryevArtem)
