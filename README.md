@@ -15,6 +15,7 @@ I'm a Java-Developer
 - ВКонтакте: https://vk.com/agrigoryev13
 - LinkedIn: https://www.linkedin.com/in/artem-grigoryev-8ab0b6349/
 - Резюме (HH.ru): https://saransk.hh.ru/resume/071a3803ff0e3545fc0039ed1f656535467575
+- Habr: https://habr.com/ru/users/GrigoryevArtem/
 
 ---
 
