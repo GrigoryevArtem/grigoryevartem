@@ -21,19 +21,7 @@ I'm a Java-Developer
 
 ### Technologies:
 
-- Java 7/15/21
-- Spring Boot
-- Hibernate
-- Maven
-- Gradle
-- Git
-- Gitlab
-- PostgreSQL
-- MsSQL
-- MinIO
-- Docker
-- Kafka
-- Redis
+• Java 7/15/21 • Spring Boot • Hibernate • Maven • Gradle • Git • Gitlab • PostgreSQL • MsSQL • MinIO • Docker • Kafka • Redis
 
 ---
 
